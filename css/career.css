@@ -302,6 +302,12 @@ select:focus {
 .columns p{
     margin-bottom: 10px;
 }
+ 
+.columns a{
+    text-decoration: none;
+    color: #ffffff;
+    
+} 
 .columns button{
     background-color: #0f4c75;
     padding: 10px 30px;
